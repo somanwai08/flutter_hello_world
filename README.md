@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 git clone https://github.com/somanwai08/flutter_hello_world.git
+
+
+flutter run
